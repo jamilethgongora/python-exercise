@@ -88,4 +88,4 @@ for i in email:
 else:
     arroba=False         #cuando ya ha analizado todo el codigo y no encuentra el @ efecuta False
 
-print(arroba)
+print(arroba) 
