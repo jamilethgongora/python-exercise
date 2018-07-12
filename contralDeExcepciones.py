@@ -1,4 +1,4 @@
-"""def suma(num1,num2):
+def suma(num1,num2):
     return num1+num2
 
 
@@ -50,12 +50,12 @@ else:
     print("Operacion no contenplada")
 
 
-print("Operacion ejecutada. Continua la ejecucion del programa")"""
+print("Operacion ejecutada. Continua la ejecucion del programa")
 
 
 
 
-def evaluaEdad(edad):
+"""def evaluaEdad(edad):
 
     if edad<0:
         raise TypeError("No se permiten edades negativas")
@@ -72,4 +72,4 @@ def evaluaEdad(edad):
     elif edad<100:
         return "CUidate..."
     
-print(evaluaEdad(16))
+print(evaluaEdad(16))"""
